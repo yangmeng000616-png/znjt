@@ -1,0 +1,8 @@
+{
+  "name": "WebSnap Builder",
+  "description": "Instantly convert HTML-linked images into a functional mobile application with our drag-and-drop builder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
